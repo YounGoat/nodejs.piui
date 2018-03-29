@@ -12,18 +12,18 @@
     "scripts": {
         "test": "mocha"
     },
-    "name": "pui",
+    "name": "piui",
     "version": "0.0.1",
     "main": "index.js",
     "keywords": [
         "console-ui",
         "table"
     ],
-    "homepage": "https://github.com/YounGoat/nodejs.pui",
+    "homepage": "https://github.com/YounGoat/nodejs.piui",
     "description": "Printable UI for console.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YounGoat/nodejs.pui.git"
+        "url": "https://github.com/YounGoat/nodejs.piui.git"
     },
     "author": {
         "name": "YounGoat",

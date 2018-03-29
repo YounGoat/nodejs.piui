@@ -1,9 +1,9 @@
-##	jinang/table
+##	piui/table
 
 Create a printable table or print a table directly in console. 
 
 ```javascript
-const table = require('pui/table');
+const table = require('piui/table');
 
 const rows = [
     { name: 'Ch-ing', age: 11, gender: 'female' },

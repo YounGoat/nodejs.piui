@@ -9,4 +9,6 @@ const MODULE_REQUIRE = 1
     ;
 
 
-module.exports = '';
+module.exports = {
+    table: reuqire('./table'),
+};
