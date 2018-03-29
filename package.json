@@ -1,0 +1,33 @@
+{
+    "bin": {},
+    "dependencies": {
+        "colors": "^1.1.2",
+        "jinang": "^0.18.0",
+        "noda": "^0.3.0"
+    },
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "pui",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "console-ui",
+        "table"
+    ],
+    "homepage": "https://github.com/YounGoat/nodejs.pui",
+    "description": "Printable UI for console.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/nodejs.pui.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
